@@ -1,0 +1,6 @@
+This simple script is connected to pick up object.
+It detects the trigger collision with player character and
+instantiates a pickup effect and destroys the gameobject.
+
+Pick Up Effect: This slot is for pick up effect. 
+(Remember to attach DestroyOverTime script to the effect so they wont fill the hierarchy.)

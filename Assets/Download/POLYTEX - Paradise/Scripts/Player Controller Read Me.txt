@@ -1,0 +1,20 @@
+This is an example script for controlling the player.
+Move the player character with WASD or ARROW keys. Jump with SPACE. Turn the Camera with MOUSE.
+Rotating the player works together with the CameraController script.
+
+Move Speed : Control the speed of your character movement.
+
+Jump Force: Control the force of the jump.
+
+Controller: The script automatically finds the character controller in the Start function. (Do not change this).
+
+Gravity Scale: Control the scale of gravity on the character.
+
+Anim: Slot for Character (Animator). (Do not change this).
+
+Pivot: Pivot object that is a children of the Camera goes under the Player when play mode is activated.
+Camera focuses on the pivot object. (Do not change this).
+
+Rotate Speed: Control the speed on which the character turns.
+
+Player Model: Slot for Character model: Script uses this for rotating the character. (Do not change this).

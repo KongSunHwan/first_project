@@ -1,0 +1,4 @@
+This simple script is connected to pick up effect.
+It destroys the gameobject after given time.
+
+Lifetime: Set after how many seconds the gameobject gets destroyed.

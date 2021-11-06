@@ -1,0 +1,8 @@
+This is an example script for controlling the camera.
+Rotating the camera works together with the PlayerController script.
+
+Target: Player is the target that sets up the camera position. (Dont change this).
+
+Rotate Speed: Change the speed of camera rotation.
+
+Pivot: This is the children gameobject under the Main Camera. Its the focus point for the camera. (Do not change this).

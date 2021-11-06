@@ -1,0 +1,16 @@
+Thank you for purchasing POLYTEX - Paradise pack.
+
+Move the player character with WASD or ARROW keys. Jump with SPACE. Turn the Camera with MOUSE.
+Make sure you have the Shader Graph enabled.
+
+There are 80 prefabs.
+Models are imported in fbx format.
+Textures are from 512*512 - 2048*2048 png.
+
+I have added PTX in the end of fbx file names to make it easier to locate models.
+
+This Pack has Settings imported so check them out at Settings folder.
+
+
+Further questions? 
+Please contact me at: a3deve@gmail.com
